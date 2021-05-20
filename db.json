@@ -1,14 +1,61 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "results":8,
+   "books":[
+      {
+         "year":2020,
+         "title":"The Vanishing Half",
+         "author":"Brit Bennett",
+         "no_pages":352,
+         "genre":"mistery"
+      },
+      {
+         "year":2020,
+         "title":"Deacon King Kong",
+         "author":"James McBride",
+         "no_pages":258,
+         "genre":"fiction"
+      },
+      {
+         "year":2020,
+         "title":"Hamnet",
+         "author":"Maggie O'Farrell",
+         "no_pages":384,
+         "genre":"fiction"
+      },
+      {
+         "year":2020,
+         "title":"The Glass Hotel",
+         "author":"Emily St. John Mandel",
+         "no_pages":320,
+         "genre":"psychological"
+      },
+      {
+         "year":2021,
+         "title":"While Justice Sleeps",
+         "author":"Stacey Abrams",
+         "no_pages":200,
+         "genre":"thriller"
+      },
+      {
+         "year":2021,
+         "title":"The Four Winds",
+         "author":"Kristin Hannah",
+         "no_pages":251,
+         "genre":"romance"
+      },
+      {
+         "year":2021,
+         "title":"Great Circle",
+         "author":"Maggie Shipstead",
+         "no_pages":304,
+         "genre":"fiction"
+      },
+      {
+         "year":2021,
+         "title":"The Prophets",
+         "author":"Robert Jones Jr.",
+         "no_pages":198,
+         "genre":"romance"
+      }
+   ]
 }
